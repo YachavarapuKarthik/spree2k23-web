@@ -1,1 +1,1 @@
-## SPREE 2K23 Website
+## Static SPREE 2K23 Website
